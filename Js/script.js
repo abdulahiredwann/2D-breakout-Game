@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d")
 
 let score = 0
 let bscore = 10
-let lives = 3;
+let lives = 5;
 
 let x = canvas.width / 2;
 let y = canvas.height - 30;
