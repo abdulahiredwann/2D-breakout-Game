@@ -12,7 +12,7 @@ let y = canvas.height - 30;
 let dx = -2;
 let dy = -2;
 
-const ballRadius = 10;
+const ballRadius = 15;
 let ballColor = "green"
 const paddleHeight = 10;
 const paddleWidth = 75;
